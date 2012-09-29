@@ -18,8 +18,6 @@ https://github.com/1schools-projects/Accounting
 
 •	jQuery.js
 
-•	1scripts.js
-
 •	PHP
 
 •	MySQL
