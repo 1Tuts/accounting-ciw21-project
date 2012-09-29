@@ -1,12 +1,12 @@
 <h2>Subject of wesite : Accounting</h2>
-Check our projec's website and report any bugs or ideas in issues
+•	Check our projec's website and report any bugs or ideas in issues
 
-Check our project's source with:
+•	Check our project's source with:
 https://github.com/1schools-projects/Accounting
 
 <h3>Buliding Technologies:</h3>
 
-• HTML5
+• 	HTML5
 
 •	CSS3
 
@@ -25,16 +25,16 @@ https://github.com/1schools-projects/Accounting
 <h3>Our Desire Design Is :</h3</br>
 http://themeforest.net/item/construct-responsive-html5css3-template/full_screen_preview/2839226
 
-<b>The Team:</b>
+<h3>The Team:</h3>
 
-  [Asmah Jalali](http://github.com/Asmah_Jalali) Developer /Programmer/ Data Gather <br />
-	[Mahnaz Najafian](http://github.com/Mahnaz) Developer / Programmer<br />
-	[Ali Mihandoost](http://github.com/AliMD) Teacher / Technical Advisor<br />
-	[Ali Aghasizadeh](http://github.com/AliGH) Technical Advisor<br />
-	[Mohamad Rahimpoor](http://github.com/mrahimpoor) Graphic Advisor<br />
-	[Mohamad Sedaghat](http://github.com/msedaghat) Business Advisor<br />
+•	<b>Asmah Jalali:</b>::::Developer /Programmer/ Data Gather <br />
+•	<b>Mahnaz Najafian:</b>::::Developer / Programmer<br />
+•	<b>Ali Mihandoost:</b>::::Teacher / Technical Advisor<br />
+•	<b>Ali Aghasizadeh:</b>::::Technical Advisor<br />
+•	<b>Mohamad Rahimpoor:</b>::::Graphic Advisor<br />
+•	<b>Mohamad Sedaghat:</b>::::Business Advisor<br />
 
+<b>All rights reserved</b>
 
-
-Produced by 1schools students network (summer 2012)
+Produced by 1schools students network (winter - summer 2012)
 
