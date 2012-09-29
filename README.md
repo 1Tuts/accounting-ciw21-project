@@ -28,7 +28,7 @@ http://themeforest.net/item/construct-responsive-html5css3-template/full_screen_
 <h3>The Team:</h3>
 
 •	<b>Asmah Jalali:</b>::::Developer /Programmer/ Data Gather <br />
-•	<b>Mahnaz Najafian:</b>::::Developer / Programmer<br />
+•	<b>Mahnaz Najafiyan:</b>::::Developer / Programmer<br />
 •	<b>Ali Mihandoost:</b>::::Teacher / Technical Advisor<br />
 •	<b>Ali Aghasizadeh:</b>::::Technical Advisor<br />
 •	<b>Mohamad Rahimpoor:</b>::::Graphic Advisor<br />
