@@ -1,26 +1,26 @@
-<h2>Subject of wesite : Accounting</h2>
-•	Check our projec's website and report any bugs or ideas in issues
+<h2>Subject of website : Accounting</h2>
+•	Check our project's website and report any bugs or ideas in issues
 
 •	Check our project's source with:
 https://github.com/1schools-projects/Accounting
 
 <h3>Buliding Technologies:</h3>
 
-• 	HTML5
+• <a href="http://www.w3schools.com/html/html5_intro.asp"> HTML5 </a>
 
-•	CSS3
+•	<a href="http://www.w3schools.com/css3/"> CSS3 </a>
 
-•	1Styles
+•	<a href="https://github.com/AliMD/1styles"> 1styles </a>
 
-•	JavaScript
+•	<a href="http://www.w3schools.com/jsref/"> JavaScript </a>
 
-•	Zepto.js
+•	<a href="http://zeptojs.com/zepto.js"> Zepto.js </a>
 
-•	jQuery.js
+•	<a href="https://github.com/jquery/jquery"> jQuery.js </a>
 
-•	PHP
+•	<a href="http://www.w3schools.com/php/"> PHP </a>
 
-•	MySQL
+•	<a href="http://en.wikipedia.org/wiki/Mysql"> MySQL </a>
 
 <h3>Our Desire Design Is :</h3</br>
 http://themeforest.net/item/construct-responsive-html5css3-template/full_screen_preview/2839226
