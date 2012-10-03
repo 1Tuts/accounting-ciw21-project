@@ -3,13 +3,13 @@
 
 <h3>Buliding Technologies:</h3>
 
-• <a href="http://www.w3schools.com/html/html5_intro.asp"> HTML5 </a>
-•	<a href="http://www.w3schools.com/css3/"> CSS3 </a>
-•	<a href="https://github.com/AliMD/1styles"> 1styles </a>
-•	<a href="http://www.w3schools.com/jsref/"> JavaScript </a>
-•	<a href="http://zeptojs.com/zepto.js"> Zepto.js </a>
-•	<a href="https://github.com/jquery/jquery"> jQuery.js </a>
-•	<a href="http://www.w3schools.com/php/"> PHP </a>
+• <a href="http://www.w3schools.com/html/html5_intro.asp"> HTML5 </a><br/>
+•	<a href="http://www.w3schools.com/css3/"> CSS3 </a><br/>
+•	<a href="https://github.com/AliMD/1styles"> 1styles </a><br/>
+•	<a href="http://www.w3schools.com/jsref/"> JavaScript </a><br/>
+•	<a href="http://zeptojs.com/zepto.js"> Zepto.js </a><br/>
+•	<a href="https://github.com/jquery/jquery"> jQuery.js </a><br/>
+•	<a href="http://www.w3schools.com/php/"> PHP </a><br/>
 •	<a href="http://en.wikipedia.org/wiki/Mysql"> MySQL </a>
 
 <h3>Our Desire Design Is :</h3</br>
