@@ -1,0 +1,48 @@
+
+header,
+div,
+div.floor0,
+div.floor1,
+div.floor2,
+div.floor3,
+div.floor4,
+div.floor5,
+div.floor6,
+footer{
+	
+	
+	outline : 1px dotted rgba(0,0,255,0.8);
+}
+
+section.hosts{
+	min-height :270px;
+	background :#696;
+}
+
+section.guest{
+	/* Test of AntiSpoiled (ZedLoos) */
+	margin-top    :10px;
+	margin-bottom :10px;
+	min-height :250px;
+	background :#915;
+}
+body{
+	background-image:url(download.png);
+	background-position: center top ;
+	background-repeat: no-repeat;
+}
+
+div.floor1{
+	overflow: hidden;
+	width: 950px;
+	height:24.5px;
+	margin-top:0;
+	outline : 1px dotted rgba(0,255,255,0.8);
+}
+
+div.floor2{
+	width: 950px;
+	height:160px;
+	margin-top:3px;
+	outline : 1px dotted rgba(0,255,255,0.8);
+}
