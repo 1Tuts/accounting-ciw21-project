@@ -1,4 +1,4 @@
-<h2>Subject of website : Accounting</h2>
+﻿<h2>Subject of website : Accounting</h2>
 •	Check our project's website and report any bugs or ideas in issues
 
 <h3>Buliding Technologies:</h3>
@@ -21,10 +21,10 @@ http://theme.phowebstudio.com/thu/
 •	<b><a href="https://github.com/mahnaz"> Mahnaz Najafiyan: </a></b>::::Developer / Programmer <br />
 •	<b><a href="https://github.com/alimd"> Ali Mihandoost: </a></b>::::Teacher / Technical Advisor<br />
 •	<b><a href=""https://github.com/aligh"> Ali Aghasizadeh: </a></b>::::Technical Advisor<br />
-•	<b>Mohamad Rahimpoor:</b>::::Graphic Advisor<br />
-•	<b>Mohamad Sedaghat:</b>::::Business Advisor<br />
+•	<b><a href="https://github.com/mrahimpoor">Mohamad Rahimpoor: </a></b>::::Graphic Advisor<br />
+•	<b><a href="https://github.com/msedaghat">Mohamad Sedaghat: </a></b>::::Business Advisor<br />
 
 <b>All rights reserved</b>
 
-Produced by 1schools students network (winter - summer 2012)
+Produced by 1schools students network (autumn - summer 2012)
 
