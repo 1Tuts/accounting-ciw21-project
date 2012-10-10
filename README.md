@@ -1,40 +1,30 @@
-<h2>Subject of wesite : Accounting</h2>
-Check our projec's website and report any bugs or ideas in issues
-
-Check our project's source with:
-https://github.com/1schools-projects/Accounting
+﻿<h2>Subject of website : Accounting</h2>
+•	Check our project's website and report any bugs or ideas in issues
 
 <h3>Buliding Technologies:</h3>
 
-• HTML5
-
-•	CSS3
-
-•	1Styles
-
-•	JavaScript
-
-•	Zepto.js
-
-•	jQuery.js
-
-•	PHP
-
-•	MySQL
+• <a href="http://www.w3schools.com/html/html5_intro.asp"> HTML5 </a><br/>
+•	<a href="http://www.w3schools.com/css3/"> CSS3 </a><br/>
+•	<a href="https://github.com/AliMD/1styles"> 1styles </a><br/>
+•	<a href="http://www.w3schools.com/jsref/"> JavaScript </a><br/>
+•	<a href="http://zeptojs.com/zepto.js"> Zepto.js </a><br/>
+•	<a href="https://github.com/jquery/jquery"> jQuery.js </a><br/>
+•	<a href="http://www.w3schools.com/php/"> PHP </a><br/>
+•	<a href="http://en.wikipedia.org/wiki/Mysql"> MySQL </a>
 
 <h3>Our Desire Design Is :</h3</br>
-http://themeforest.net/item/construct-responsive-html5css3-template/full_screen_preview/2839226
+http://theme.phowebstudio.com/thu/
 
-<b>The Team:</b>
+<h3>The Team:</h3>
 
-  [Asmah Jalali](http://github.com/Asmah_Jalali) Developer /Programmer/ Data Gather <br />
-	[Mahnaz Najafian](http://github.com/Mahnaz) Developer / Programmer<br />
-	[Ali Mihandoost](http://github.com/AliMD) Teacher / Technical Advisor<br />
-	[Ali Aghasizadeh](http://github.com/AliGH) Technical Advisor<br />
-	[Mohamad Rahimpoor](http://github.com/mrahimpoor) Graphic Advisor<br />
-	[Mohamad Sedaghat](http://github.com/msedaghat) Business Advisor<br />
+•	<b><a href="https://github.com/asmah-jalali"> Asmah Jalali: </a></b>::::Developer /Programmer/ Data Gather <br />
+•	<b><a href="https://github.com/mahnaz"> Mahnaz Najafiyan: </a></b>::::Developer / Programmer <br />
+•	<b><a href="https://github.com/alimd"> Ali Mihandoost: </a></b>::::Teacher / Technical Advisor<br />
+•	<b><a href=""https://github.com/aligh"> Ali Aghasizadeh: </a></b>::::Technical Advisor<br />
+•	<b><a href="https://github.com/mrahimpoor">Mohamad Rahimpoor: </a></b>::::Graphic Advisor<br />
+•	<b><a href="https://github.com/msedaghat">Mohamad Sedaghat: </a></b>::::Business Advisor<br />
 
+<b>All rights reserved</b>
 
-
-Produced by 1schools students network (summer 2012)
+Produced by 1schools students network (autumn - summer 2012)
 
