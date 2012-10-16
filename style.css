@@ -1,0 +1,145 @@
+*{
+	margin:0;
+	padding:0;		
+}
+body{
+	padding:1px;
+}
+/*
+header
+-----------------------------------------------------*/
+div.header {
+	height:95px;;
+	padding:1px;
+	outline:1px dashed black;
+	margin-top:5px;
+}
+div.header > div{
+	float:left;	
+}
+div.header 	div.logo{
+	outline:1px dashed #666666;
+	width:250px;
+	height:95px;
+	margin-left:200px;	
+}
+div.header 	div.social-icon{
+	outline:1px dashed #009999;
+	height:35px;
+	width:300px;
+	margin-left:420px;
+		
+}
+/*
+menu
+---------------------------------*/
+div.header 	div.menu{
+	outline:1px dashed #FF0000;
+	height:50px;
+	width:500px;
+	margin-left:200px;
+	margin-top:10px;	
+}
+/*
+slideshow
+-----------------------------------------------------*/
+
+div.slideshow{
+	outline:1px dashed #333333;
+	height:460px;
+	width:100%;
+	margin-top:5px;
+}
+/*
+services
+-----------------------------------------------------*/
+
+div.text{
+	outline:1px dashed #FF0000;
+	height:160px;
+	width:100%;
+	margin-top:5px;	
+}
+div.services{
+	outline:1px dashed #00FFFF;
+	height:330px;
+	width:100%;
+	margin-top:5px;	
+}
+div.services > div{
+	outline:1px dashed #CCCC33;
+	width:265px;
+	height:300px;
+	float:left;
+	margin-left:50px;
+	margin-top:5px;
+}
+div.services div:first-child{
+	margin-left:220px;	
+}
+/*
+animate-box
+-----------------------------------------------------*/
+
+div.animate-box{
+	outline:1px dashed #660000;
+	height:640px;
+	width:100%;
+	margin-top:5px;
+	padding:1px;
+}
+div.text-animate-box{
+	outline:1px dashed #CC00FF;
+	height:130px;
+	width:280px;
+	margin-left:526px;	
+	margin-top:5px;
+}
+div.animate-box{
+	outline:1px dashed #FF0000;
+	height:443px;
+	width:900px;
+	margin-left:217px;	
+	margin-top:5px;
+}
+/*
+follow-us
+-----------------------------------------------------*/
+div.follow-us{
+	outline:1px dashed #669966;
+	width:600px;
+	height:280px;
+	margin-left:370px;
+	margin-top:5px;
+	padding:1px;	
+}
+
+/*
+top-scroll
+-----------------------------------------------------*/
+div.top-scroll{
+	outline:1px dashed #006699;
+	height:40px;
+	width:100%;
+	margin-top:5px;	
+}
+
+
+
+
+/*
+footer
+-----------------------------------------------------*/
+div.footer{
+	outline:1px dashed #CC0033;
+	height:610px;
+	width:100%;
+	margin-bottom:10px;
+}
+
+
+
+
+
+
+
