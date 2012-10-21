@@ -29,8 +29,4 @@ window.onload=function(){
 	}
 	slideshow.getElementsByClassName('next').item(0).onclick=nextslide;
 	slideshow.getElementsByClassName('previous').item(0).onclick=backslide;
-
-
-	
-	
 }
