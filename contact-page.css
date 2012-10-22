@@ -1,0 +1,13 @@
+.contact-us .err {
+	background-color: #FCDFD2 !important;
+}
+
+.contact-us .ok{
+	background-color: #D5FCD2 !important;
+}
+
+.contact-us label {
+	font-size:12px;
+	color:#6A5C6B;
+	text-shadow:0 1px 0 #fff;
+}

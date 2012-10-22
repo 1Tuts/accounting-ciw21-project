@@ -6,13 +6,19 @@
 </title>
 <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/reset.css" />
 <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/style.css" />
+<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url');?>/contact-page.css" />
 <script type="text/javascript" src="<?php bloginfo('template_url');?>/script.js"></script>
 <script type="text/javascript" src="<?php bloginfo('template_url');?>/zepto.js"></script>
+<script type="text/javascript" src="<?php bloginfo('template_url');?>/slideshowbtm.js" ></script>
+<script type="text/javascript" src="<?php bloginfo('template_url');?>/scroll-up.js" ></script>
+<script type="text/javascript" src="<?php bloginfo('template_url');?>/contact-page.js" ></script>
 
 
 </head>
 
 <body>
+    <div id="blockid"></div>
+    <!-- blockid use for scroll up -->
 	<div class="body">
     	<div class="header">
             <div class="logo">
@@ -25,4 +31,6 @@
                     <a href="#" class="social-icon6"></a>
                     <a href="#" class="social-icon7"></a>
             </div>
+        </div>
+    
             
