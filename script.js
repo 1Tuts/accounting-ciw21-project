@@ -2,7 +2,6 @@ window.onload=function(){
 	var slideshow = document.getElementsByClassName('slideshow').item(0),
 	train = slideshow.getElementsByClassName('train').item(0),
 	list = slideshow.getElementsByClassName('btn').item(0).getElementsByTagName("li"),
-	n1=train.getElementsByClassName('n').item(0).getElementsByClassName('n1'),
 	currentslide=0;	
 	(gotoslide=function(x){
 			if(x>=list.length) x=0;
@@ -29,4 +28,5 @@ window.onload=function(){
 	}
 	slideshow.getElementsByClassName('next').item(0).onclick=nextslide;
 	slideshow.getElementsByClassName('previous').item(0).onclick=backslide;
+
 }
