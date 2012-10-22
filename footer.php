@@ -6,11 +6,11 @@
                     <div class="footer-box">
                         <h4>ارتباط با ما</h4>
                         <div class="contact-us">
-                            <form id="contact-form" action="sendmail.php" method="post" target='ifrm'>
-                                 <label>نام :</label>
-                                 <input class="text nameicon" type="text" name="name" id="name" placeholder="Name" />
-                                 <label>ایمیل :</label>
-                                 <input class="text mailicon" type="text" name="mail" id="mail" placeholder="Email" />
+                            <form id="contact-form" action="sendmail.php" method="post" target='ifrm'> 
+                                 <input class="text-icon" type="text" name="name" id="name" placeholder="Name" />
+                                 <label>  : نام</label></br></br></br>
+                                 <input class="text-icon" type="text" name="mail" id="mail" placeholder="Email" />
+                                 <label>  : ایمیل</label></br></br></br>
                                  <input class="btn" type="submit" name="submit" value="Send" />
                                  <input class="btn" type="reset" name="reset" id="reset" value="Reset" />
                             </form>
