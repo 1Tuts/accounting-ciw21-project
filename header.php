@@ -4,14 +4,11 @@
 <title>
 	<?php bloginfo('name'); wp_title();?>
 </title>
-<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/reset.css" />
+<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/1styles.css" />
 <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/style.css" />
-<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url');?>/contact-page.css" />
 <script type="text/javascript" src="<?php bloginfo('template_url');?>/script.js"></script>
 <script type="text/javascript" src="<?php bloginfo('template_url');?>/zepto.js"></script>
-<script type="text/javascript" src="<?php bloginfo('template_url');?>/slideshowbtm.js" ></script>
-<script type="text/javascript" src="<?php bloginfo('template_url');?>/scroll-up.js" ></script>
-<script type="text/javascript" src="<?php bloginfo('template_url');?>/contact-page.js" ></script>
+
 
 
 </head>
