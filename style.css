@@ -669,11 +669,24 @@ div.footer{
 	margin-bottom:10px;
 }
 div.footer div.footer-container{
-	margin-left: 17%;
+	margin:0px auto;
+	width: 800px;
+	height: 285px;
 }
-div.footer div.three-columns{
+div.footer div.three-columns-first{
 	margin-left: 20px;
 	float:left;
+	width: 250px;
+	height: 281px;
+}
+div.footer div.three-columns-second{
+	margin-left: 250px;
+	margin-right: 250px;
+	height: 281px;
+}
+div.footer div.three-columns-last{
+	margin-left: 20px;
+	float:right;
 	width: 250px;
 	height: 281px;
 }
@@ -688,14 +701,14 @@ margin-bottom: 25px;
 border-bottom: 1px solid #3F3F3F;
 }
 div.footer-bottom-border{
+width: 750px;
 height: 7px;
 background: #2F2F2F;
-margin: 40px 470px 0px 260px
+margin: 45px auto 0px;
 }
 .bottom-logo{
-	position: relative;
-	left: 38%;
-	margin-top: 20px;
+	width:220px;
+	margin:20px auto 0px;
 }
 div.footer-nav{
 	margin-right: 47%;
