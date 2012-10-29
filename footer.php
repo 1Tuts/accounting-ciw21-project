@@ -34,14 +34,17 @@
             <div class="footer-logo">
                 <div class='bottom-logo'><a href="#"><img src='./images/btm-logo.jpg' alt='logo'></a></div>
             </div>
+            <div class="clear"></div> 
             <div class="footer-nav">
-                <ul>
-                    <li><a href="#">خانه</a></li>
-                    <li><a href="#">گالری</a></li>
-                    <li><a href="#">محصولات</a></li>
-                    <li><a href="#">درباره ما</a></li>
-                </ul>
-            </div>
+                <div class="footer-menu">
+                    <ul>
+                        <li><a href="#">خانه</a></li>
+                        <li><a href="#">گالری</a></li>
+                        <li><a href="#">محصولات</a></li>
+                        <li><a href="#">درباره ما</a></li>
+                    </ul>
+                </div>
+            </div>        
             <p class="copyright-text">Copyright© 2012 PWvintage. All right reserved.</p>
     </div>
 </body>

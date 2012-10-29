@@ -711,8 +711,12 @@ margin: 45px auto 0px;
 	margin:20px auto 0px;
 }
 div.footer-nav{
-	margin-right: 47%;
-	padding-top: 10px;
+	
+}
+div.footer-nav div.footer-menu{
+	width:300px;
+	height:40px;
+	margin: 5px auto 0px;
 }
 div.footer-nav a{
 	color:gray;
