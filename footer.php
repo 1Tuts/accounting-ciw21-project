@@ -2,7 +2,7 @@
    
         <div class="footer">
             <div class="footer-container">
-       		    <div class="three-columns">
+       		    <div class="three-columns-first">
                     <div class="footer-box">
                         <h4>ارتباط با ما</h4>
                         <div class="contact-us">
@@ -18,20 +18,22 @@
                         </div>
                     </div>   
                 </div>
-                <div class="three-columns">
-                    <div class="footer-box">
-                        <h4>پست های جدید</h4>
-                    </div>
-                </div>
-                <div class="three-columns">
+                <div class="three-columns-last">
                     <div class="footer-box">
                         <h4>برچسب ها</h4>
+                    </div>
+                </div>
+                <div class="three-columns-second">
+                    <div class="footer-box">
+                        <h4>پست های جدید</h4>
                     </div>
                 </div>
             </div> 
             <div class="clear"></div> 
             <div class="footer-bottom-border"></div>
-            <div class="footer-logo"><a href="#"><img src="<?php bloginfo('template_url'); ?>/images/btm-logo.jpg" class='bottom-logo'></a></div>
+            <div class="footer-logo">
+                <div class='bottom-logo'><a href="#"><img src='./images/btm-logo.jpg' alt='logo'></a></div>
+            </div>
             <div class="footer-nav">
                 <ul>
                     <li><a href="#">خانه</a></li>
