@@ -1,4 +1,10 @@
-    <div class="top-scroll"><a href="#blockid" onclick="smoothScroll('blockid'); return false"><img src="<?php bloginfo('template_url'); ?>/images/top2.png" class="scroll"></a></div>   	
+    <div class="top-scroll">
+        <div class="top-scroll-img">
+            <a href="#blockid" onclick="smoothScroll('blockid'); return false">
+                <img src="<?php bloginfo('template_url'); ?>/images/top2.png" alt="scroll">
+            </a>
+        </div>
+    </div>   	
    
         <div class="footer">
             <div class="footer-container">
@@ -32,7 +38,7 @@
             <div class="clear"></div> 
             <div class="footer-bottom-border"></div>
             <div class="footer-logo">
-                <div class='bottom-logo'><a href="#"><img src='./images/btm-logo.jpg' alt='logo'></a></div>
+                <div class='bottom-logo'><a href="#"><img src="<?php bloginfo('template_url'); ?>/images/btm-logo.jpg" alt='logo'></a></div>
             </div>
             <div class="clear"></div> 
             <div class="footer-nav">
