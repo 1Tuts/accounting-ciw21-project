@@ -571,13 +571,13 @@ div.animate-box{
 	
 	height:443px;
 	width:980px;
-	margin-left:217px;	
-	margin-top:5px;
+	margin:5px auto;
 }
 div.animate-box div.slideshowbtm{
+	border:10px dashed gray;
 	width      : 800px;
 	height     : 400px;
-	margin     : 30px auto 0;
+	margin     : 30px auto;
 	overflow   : hidden;
 	position   : relative;
 	background-repeat   : no-repeat;
