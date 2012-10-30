@@ -596,10 +596,12 @@ div.slideshowbtm div.trainbtm > div{
 follow-us
 -----------------------------------------------------*/
 div.follow-us{
-	width:600px;
-	height:280px;
-	margin-left:370px;
-	margin-top:5px;
+height:280px;
+}
+div.inner-follow-us{
+	width:400px;
+	height:70px;
+	margin:5px auto;
 	padding:1px;	
 }
 div.follow-us h4{
@@ -617,9 +619,7 @@ div.follow-us p{
 div.follow-us div.divider-4{
 	width:411px;
 	height:8px;
-	position:absolute;
-	left:30%;
-	margin-top:15px;
+	margin:15px auto;
 	background-repeat:no-repeat;
 	background-image:url(images/divider-2.png);	
 }
@@ -629,7 +629,7 @@ background-repeat: no-repeat;
 width:50px;
 height:30px;
 display: block;
-margin: 30px auto 10px;
+margin: 0px auto 10px;
 
 }
 .clear{
@@ -642,7 +642,7 @@ height: 0px;
 }
 div.tweets-link{
 	text-align: center;
-	margin: 70px 25px 10px auto;
+	margin: 60px auto 0px;
 	height: 30px;
 }
 div.tweets-link a{
