@@ -45,7 +45,9 @@
                     </ul>
                 </div>
             </div>        
-            <p class="copyright-text">Copyright© 2012 PWvintage. All right reserved.</p>
+            <div>
+                <p class="copyright-text">Copyright© 2012 PWvintage. All right reserved.</p>
+            </div>
     </div>
 </body>
 </html>
