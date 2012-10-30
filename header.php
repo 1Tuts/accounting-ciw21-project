@@ -20,14 +20,16 @@
     	<div class="header">
             <div class="logo">
             </div>
-            <div class="social-icon">
+            <div class="icon-menu">
+                <div class="social-icon">
                 	<a href="#" class="social-icon1"></a>
                     <a href="#" class="social-icon2"></a>
                     <a href="#" class="social-icon3"></a>
                     <a href="#" class="social-icon5"></a>
                     <a href="#" class="social-icon6"></a>
                     <a href="#" class="social-icon7"></a>
-            </div>
+                </div>
+            </div>    
         </div>
     
             

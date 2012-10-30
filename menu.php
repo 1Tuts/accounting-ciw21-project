@@ -1,4 +1,5 @@
-<div class="menu">
+<div class="icon-menu">
+	<div class="menu">
                 <ul>
                    <?php 
 					   wp_list_pages(array(
@@ -32,5 +33,5 @@
                 </ul>
             </div>
         </div>
-        <div class="divider">
-        </div>
+    <div class="divider">
+    </div>

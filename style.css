@@ -9,13 +9,16 @@ body{
 header
 -----------------------------------------------------*/
 div.header {
+	width:1050px;
 	height:120px;;
 	padding:1px;
-/*	outline:1px dashed black;
-*/	margin-top:5px;
+	margin:0px auto;
 }
-div.header > div{
-	float:left;	
+
+div.header div.icon-menu{
+	width:700px;
+	float:right;
+	margin-left:210px;
 }
 div.header 	div.logo{
 /*	outline:1px dashed #666666;
@@ -90,8 +93,7 @@ menu
 div.header 	div.menu{
 	height:40px;
 	width:500px;
-	margin-left:200px;
-	margin-top:40px;	
+	margin-top:50px;	
 }
 
 div.menu ul{
