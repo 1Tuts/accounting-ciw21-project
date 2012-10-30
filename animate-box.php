@@ -1,8 +1,11 @@
 <div class="text-animate-box">
-                <p>مراجع</p></br>
-                <p>رشته حسابداری</p>
-                <div class="divider-3"></div>
+                <div class="inner-text-animate-box">
+                    <p>مراجع</p></br>
+                    <p>رشته حسابداری</p>
+                    <div class="divider-3"></div>
+                </div>    
 </div>
+
 <div class="animate-box">
                 
              <div class="slideshowbtm">
