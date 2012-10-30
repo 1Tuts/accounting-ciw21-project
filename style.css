@@ -483,7 +483,6 @@ services
 -----------------------------------------------------*/
 
 div.services{
-	outline:1px dashed #00FFFF;
 	height:450px;
 }
 div.services div.servic-container{
