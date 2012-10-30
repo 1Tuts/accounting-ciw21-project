@@ -434,14 +434,12 @@ text & left/right shadowes
 -----------------------------------------------------*/
 
 div.text{
-/*	outline:1px dashed #FF0000;
-*/	float:left;
+/*	outline:1px dashed #FF0000;*/
 	height:160px;
 	width:900px;;
 	position:relative;
 	z-index:11;
-	margin-top:-75px;
-	margin-left:225px;
+	margin:-75px auto 0px;
 	background-color:#FFF;
 	border-top:1px solid black;	
 }
