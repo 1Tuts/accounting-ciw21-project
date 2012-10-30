@@ -548,7 +548,7 @@ div.text-animate-box{
 }
 div.inner-text-animate-box{
 	width: 200px;
-	height: 120px;
+	height: 100px;
 	margin:5px auto;
 }
 div.text-animate-box p{
@@ -561,10 +561,7 @@ div.text-animate-box p{
 div.text-animate-box div.divider-3{
 	width:411px;
 	height:8px;
-	z-index:20px;
-	position: absolute;
-	right:45%;
-	margin-top: 20px;
+	margin:0px auto;
 	background-repeat:no-repeat;
 	background-image:url(images/divider-2.png);	
 }
