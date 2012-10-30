@@ -45,7 +45,9 @@
             </div>
             <div class="services">
             	<div class="servic1"><div class="servic1-pic"></div></div>
-                <div class="servic2"><div class="servic2-pic"></div></div>
+                
             	<div class="servic3"><div class="servic3-pic"></div></div>
+
+            	<div class="servic2"><div class="servic2-pic"></div></div>
             </div>
             
