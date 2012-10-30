@@ -514,21 +514,19 @@ div.services div.servic2{
 .servic1-pic{
 	width:100px;
 	height:100px;
-/*	outline:1px solid black;
-*/	background-image:url(images/service-c.png);
+/*	outline:1px solid black;*/
+	margin:0px auto;
+	background-image:url(images/service-c.png);
 	background-repeat:no-repeat;
-	position:absolute;
-	left:83px;
 	
 }
 .servic2-pic{
 	width:100px;
 	height:100px;
-/*	outline:1px solid black;
-*/	background-image:url(images/service-r.png);
+/*	outline:1px solid black;*/
+	margin:0px auto;
+	background-image:url(images/service-r.png);
 	background-repeat:no-repeat;
-	position:absolute;
-	left:390px;
 	
 }
 
@@ -536,11 +534,9 @@ div.services div.servic2{
 	width:100px;
 	height:100px;
 /*	outline:1px solid black;
-*/	background-image:url(images/service-s.png);
-	background-repeat:no-repeat;
-	position:absolute;
-	left:705px;
-	
+*/  margin:0px auto;	
+	background-image:url(images/service-s.png);
+	background-repeat:no-repeat;S
 }
 
 /*
