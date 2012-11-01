@@ -504,30 +504,33 @@ services
 -----------------------------------------------------*/
 
 div.services{
-	height:450px;
+	min-height:30px;
 }
 div.services div.servic-container{
 	width:850px;
 	height: 320px;
 	margin: 0px auto;
 }
-
 div.services div.servic1{
-	width:265px;
-	height:300px;
-	float:left;
-	margin-top:35px;
-}
-div.services div.servic3{
 	width:265px;
 	height:300px;
 	float:right;
 	margin-top:35px;
+	text-align:right;	
+}
+div.services div.servic3{
+	width:265px;
+	height:300px;
+	float:left;
+	margin-top:35px;
+	text-align:right;	
 }
 div.services div.servic2{
 	width:265px;
 	height:300px;
 	margin:0px 295px;
+	text-align:right;	
+
 	padding-top: 35px;/*for anti spoiled child*/
 }
 
