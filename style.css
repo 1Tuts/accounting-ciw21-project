@@ -1,3 +1,17 @@
+/*
+Theme Name: Accounting
+Theme URI: http://mahdizamani.ir
+Author: jalali
+Author URI: http://webdevs.ir/
+Description: The 2011 theme for WordPress is sophisticated, lightweight, and adaptable. Make it yours with a custom menu, header image, and background -- then go further with available theme options for light or dark color scheme, custom link colors, and three layout choices. Twenty Eleven comes equipped with a Showcase page template that transforms your front page into a showcase to show off your best content, widget support galore (sidebar, three footer areas, and a Showcase page widget area), and a custom "Ephemera" widget to display your Aside, Link, Quote, or Status posts. Included are styles for print and for the admin editor, support for featured images (as custom header images on posts and pages and as large images on featured "sticky" posts), and special styles for six different post formats.
+Version: 1.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: dark, light, white, black, gray, one-column, two-columns, left-sidebar, right-sidebar, fixed-width, flexible-width, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready
+Text Domain:Accounting
+*/
+/*-------------------------------------------------------------- */
+
 *{
 	margin:0;
 	padding:0;		
@@ -10,7 +24,7 @@ header
 -----------------------------------------------------*/
 div.header {
 	width:1050px;
-	height:120px;;
+	height:120px;
 	padding:1px;
 	margin:0px auto;
 }
@@ -93,32 +107,28 @@ menu
 div.header 	div.menu{
 	height:40px;
 	width:500px;
-	margin-top:50px;	
+	margin-top:50px;
+	background-color:#FF0000;
+	margin-left:50px;	
 }
-
-div.menu ul{
-	list-style-type:none;
-	width:500px;
+nav {
 	height:40px;
+	width:500px;
+	margin-top:40px;
+	margin-left:800px;	
 }
-div.menu li:first-child{
+nav ul{
+	list-style-type: none;
+	width:500px;
+	height:40px;	
 }
-div.menu li{
+nav ul li {
 	float:right;
 	position:relative;
 	width:85px;
 	height:40px;
-	
 }
-div.menu  li.active1{
-	background-color:rgb(84,137,174);
-}
-div.menu a.active2{
-	color:rgb(237,242,247);
-}
-
-div.menu a{
-	color:white;
+nav a, nav a:visited { 
 	text-decoration:none;
 	font-family:"function_regular", Geneva, sans-serif !important;
 	font-size:13px;
@@ -127,26 +137,9 @@ div.menu a{
 	display:block;
 	margin-top:5px;
 	font-weight:bold;
+}
 
-}
-div.menu li li a{
-	margin-left:130px;
-	color:white;
-	margin-top:0;	
-}
-div.menu li ul{
-	display:none;
-	width:200px;
-	position:absolute;
-	top:40px;
-	right:0;
-	z-index:999;
-	
-}
-div.menu li:hover ul{
-	display:block;
-}
-div.menu li li{
+nav li li{
 	width:200px;
 	height:30px;
 	opacity:0.8;
@@ -155,11 +148,31 @@ div.menu li li{
 	-webkit-transition:all 1000ms;
 }
 
-div.menu li li:hover{
+
+nav li li a {
+	color:white;
+	margin-top:0;
+	float:right;	
+}
+nav li ul {
+	display:none;
+	width:220px;
+	position:absolute;
+	top:40px;
+	right:0;
+	z-index:999;
+}
+nav li li:hover{
 	border-right:10px solid #06C;
 	-webkit-transition:all 500ms;
-	background-color:#999999;
+	background-color:rgb(130,140,150);
 }
+
+
+nav li:hover > ul {
+	display: block;
+}
+
 /*divider
 ----------------------------------------*/
 div.divider{
@@ -452,6 +465,12 @@ div.text p{
 	font-weight:bold;
 /*	text-shadow:1px 1px #999;	
 */}
+div.text h2{
+	font-size:25px;
+	text-align:center;
+	margin-top:40px;
+
+}
 div.divider-2{
 	width:411px;
 	height:8px;
